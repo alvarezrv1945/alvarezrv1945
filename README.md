@@ -82,7 +82,7 @@
   <p>
     Telegram: <a href="https://t.me/Alvarezrv">@Alvarezrv</a><br>
     Discord: Alvarez#1945<br>
-   
+    Email: <em>(optional, kalau mau ditambah)</em>
   </p>
 </section>
 
