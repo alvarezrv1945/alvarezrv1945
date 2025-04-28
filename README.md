@@ -1,94 +1,53 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Alvarez | Cyber Enthusiast</title>
-  <style>
-    body {
-      margin: 0;
-      font-family: 'Poppins', sans-serif;
-      background-color: #0d1117;
-      color: #c9d1d9;
-    }
-    header {
-      text-align: center;
-      padding: 100px 20px 50px 20px;
-    }
-    h1 {
-      font-size: 3rem;
-      margin: 0;
-    }
-    p.tagline {
-      font-size: 1.2rem;
-      color: #8b949e;
-    }
-    section {
-      max-width: 800px;
-      margin: 50px auto;
-      padding: 0 20px;
-    }
-    h2 {
-      border-bottom: 2px solid #30363d;
-      padding-bottom: 10px;
-      margin-bottom: 20px;
-    }
-    .badges img {
-      height: 30px;
-      margin: 5px;
-    }
-    footer {
-      text-align: center;
-      padding: 30px 20px;
-      font-size: 0.9rem;
-      color: #8b949e;
-      border-top: 1px solid #30363d;
-    }
-    a {
-      color: #58a6ff;
-      text-decoration: none;
-    }
-    a:hover {
-      text-decoration: underline;
-    }
-  </style>
-</head>
-<body>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=120&section=header&text=Welcome%20to%20Alvarez's%20Profile&fontColor=ffffff&fontSize=30&animation=fadeIn" />
+</p>
 
-<header>
-  <h1>Alvarez</h1>
-  <p class="tagline">Cybersecurity Enthusiast | Software Developer</p>
-</header>
+<h1 align="center">Alvarez</h1>
 
-<section>
-  <h2>About Me</h2>
-  <p>
-    Passionate about cybersecurity, system engineering, and building secure software. I enjoy learning new technologies and pushing the limits of digital possibilities.
-  </p>
-</section>
+<p align="center">
+  <em>Cybersecurity Enthusiast | Developer | Lifelong Learner</em>
+</p>
 
-<section>
-  <h2>Skills</h2>
-  <div class="badges">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
-    <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </div>
-</section>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=alvarezrv1945&style=flat-square&color=lightgrey" alt="Profile Views" />
+</p>
 
-<section>
-  <h2>Contact</h2>
-  <p>
-    Telegram: <a href="https://t.me/Alvarezrv">@Alvarezrv</a><br>
-    Discord: Alvarez#1945<br>
-    Email: <em>(optional, kalau mau ditambah)</em>
-  </p>
-</section>
+---
 
-<footer>
-  <p>"Simplicity is the ultimate sophistication." — Leonardo da Vinci</p>
-</footer>
+### About Me
+- 🔒 Interested in cybersecurity and ethical hacking.
+- ⚙️ Enjoys building and securing applications.
+- 🧠 Currently learning penetration testing and automation.
 
-</body>
-</html>
+---
+
+### Tech Stack
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-FF4500?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
+
+---
+
+### GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alvarezrv1945&show_icons=true&theme=github_dark&hide=contribs&hide_title=true&hide_rank=true" width="400" />
+</p>
+
+---
+
+### Contact
+- Telegram: [@Alvarezrv](https://t.me/Alvarezrv)
+- Discord: Alvarez#1945
+
+---
+
+<p align="center">
+  <em>"We are the silent guardians of the network."</em>
+</p>
+
+<p align="center">
+  <em>"Security is not a product, it's a process."</em>
+</p>
