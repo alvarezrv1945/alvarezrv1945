@@ -44,4 +44,10 @@
 
 ---
 
-> **"Security is not a product, it's a process."**
+<p align="center">
+  <em>"We are the silent guardians of the network."</em>
+</p>
+
+<p align="center">
+  <em>"Security is not a product, it's a process."</em>
+</p>
