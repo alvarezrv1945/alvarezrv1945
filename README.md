@@ -1,9 +1,5 @@
 <h1 align="center">🚀 GABUT ARMY | @Alvarezrv 🚀</h1>
 
-<p align="center">
-  <img src="profile.jpg" width="220" style="border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.5);">
-</p>
-
 <br>
 
 <h3 align="center">
